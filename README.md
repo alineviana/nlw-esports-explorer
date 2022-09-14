@@ -4,7 +4,7 @@
 
 🚩 Edição #NLW eSports
 
-<img src="nlw.png" width="450px" height="250px">
+<img src="./assets/nlw.png" width="450px" height="250px">
 
 <br>
 
