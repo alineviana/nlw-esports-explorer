@@ -1,15 +1,27 @@
 # Next Level Week 🚀
 
-💻 Evento de programação da Rocketseat
+- 💻 Evento de programação da Rocketseat 
+- 🚩 Edição #NLW eSports
 
-🚩 Edição #NLW eSports
-
-<img src="./assets/nlw.png" width="450px" height="250px">
+![preview](./.github/preview.png)
 
 <br>
 
-# 🔹Trilha Explorer🔹
+>🔹Trilha Explorer🔹
 
-- Desenvolvimento do app Game hub
+- Desenvolvimento de um site centralizador de links, no estilo Linktree
 
-- Um site centralizador de links, no estilo Linktree, feito especialmente para gamers utilizarem na Twitch e outras redes sociais com a proposta de compartilhar quais games e canais acompanham.
+- Feito especialmente para gamers utilizarem na Twitch e outras redes sociais com a proposta de compartilhar quais games e canais acompanham.
+
+- 🔗[Clique aqui para acessar](https://alineviana.github.io/nlw-esports-explorer/)
+
+<br>
+
+> 🖥️ Tecnologias
+
+- HTML
+- CSS
+- Git GitHub
+
+> 👇🏽 Contato
+- 🔗[Clique aqui para acessar](https://www.linkedin.com/in/alinecviana/)
