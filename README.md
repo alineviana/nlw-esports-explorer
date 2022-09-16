@@ -21,7 +21,9 @@
 
 - HTML
 - CSS
-- Git GitHub
+- Git e GitHub
+
+<br>
 
 > 👇🏽 Contato
 - 🔗[Clique aqui para acessar](https://www.linkedin.com/in/alinecviana/)
